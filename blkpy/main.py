@@ -1,3 +1,7 @@
+"""
+Dummy module docstring to pass linting
+"""
+
 import click
 from blkpy.util import run_lsblk
 
